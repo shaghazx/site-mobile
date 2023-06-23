@@ -1,0 +1,8 @@
+:root{
+--cor-de-fundo: corrigir
+}
+
+body{
+
+    background-color:var(--cor-de-fundo)
+}
