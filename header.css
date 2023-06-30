@@ -1,0 +1,11 @@
+.cabecalho_livraria {
+width: 24;
+height: 24;
+background-image: url("");
+display: inline-block;
+}
+
+.cabecalho {
+background-color: var(--branco);
+
+}

@@ -1,8 +1,11 @@
+@import url(styles/header.css);
+
 :root{
---cor-de-fundo: corrigir
-}
-
-body{
-
-    background-color:var(--cor-de-fundo)
-}
+    --cor-de-fundo: corrigir;
+    --branco: #FFFFFF;
+    }
+    
+    body{
+    
+        background-color:var(--cor-de-fundo)
+    }
